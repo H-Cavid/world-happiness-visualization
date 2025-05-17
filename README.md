@@ -106,5 +106,5 @@ This project is licensed under **CC BY-NC-ND 4.0**.
 **Javid Hasanov**  
 Master's student in Data Science at FH Kiel
   
-[LinkedIn](https://www.linkedin.com/in/javid123) • [GitHub](https://github.com/H-Cavid)
+[LinkedIn](https://www.linkedin.com/in/cavid-h%C9%990s%C9%99nov-0226ca/) • [GitHub](https://github.com/H-Cavid)
 
